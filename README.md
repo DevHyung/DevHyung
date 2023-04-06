@@ -7,6 +7,7 @@
   <a href="mailto:khuphj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:khuphj@gmail.com"/></a>
 <a href="https://velog.io/@youhyeoneee"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a><br>
   <br><br> 
+  <!--
    # 🛠️ Tech stack
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -22,7 +23,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br><br>
-
+-->
   # 🧐 Github Stats  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevhyung%2F&count_bg=%23418210&title_bg=%23FF0000&icon=highly.svg&icon_color=%23FDFDFD&title=Thanks&edge_flat=false)](https://hits.seeyoufarm.com)
 
