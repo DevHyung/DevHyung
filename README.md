@@ -5,7 +5,7 @@
   🤩 I am interested in the field of dealing with data<br>
   🇰🇷 I’m located in South Korea<br>
   <a href="mailto:khuphj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:khuphj@gmail.com"/></a>
-<a href="https://velog.io/@youhyeoneee"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a><br>
+<a href="https://velog.io/@devhyung"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@devhyung"/></a><br>
   <br><br> 
   <!--
    # 🛠️ Tech stack
