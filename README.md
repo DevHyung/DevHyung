@@ -32,8 +32,9 @@
   [<img src="https://github-readme-stats.vercel.app/api?username=devhyung&hide=contribs,prs,issues&show_icons=true&theme=tokyonight" align="left" style="width: 100%" />](https://github.com/devhyung)
 
   </td><td valign="top" width="50%">
-
+<!--
   [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhyung&layout=demo&theme=tokyonight" align="left" style="width: 100%" />](https://github.com/devhyung)
+  -->
 
   </td></tr></table>  
 
